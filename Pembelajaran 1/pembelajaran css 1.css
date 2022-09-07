@@ -1,0 +1,10 @@
+h1 {
+    font-style: inherit;
+    text-align: center;
+    font-size: 200px;
+    background-color: aqua;
+    color: blueviolet;
+}
+body {
+    background-color: beige;
+}
